@@ -1,4 +1,4 @@
-/ POI
+// POI
 #include <msp430.h> 
 #include "drivers/spi.h"
 #include "defines.h"
