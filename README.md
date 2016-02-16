@@ -4,5 +4,4 @@ POI light toy for msp430 / cc430
 read all about the project on my blog:
 https://debugginglab.wordpress.com/2015/03/31/poi-light-toy/
 
-change 1
-change 2
+
